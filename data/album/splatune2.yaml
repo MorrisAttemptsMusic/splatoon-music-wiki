@@ -379,7 +379,7 @@ Contributors:
 Duration: 1:45
 Referenced Tracks:
 - Cap'n Cuttlefish's Theme
-#- track:bomb-rush-blush-splatoon
+- Tide Goes Out
 ---
 Track: Octo Canyon
 Artists:
@@ -481,10 +481,10 @@ Artists:
 Contributors:
 - Ryo Nagamatsu (Music by)
 Duration: 1:54
-#Referenced Tracks:
-#- track:bomb-rush-blush-splatoon
-#Sampled Tracks:
-#- track:bomb-rush-blush-splatoon
+Referenced Tracks:
+- track:bomb-rush-blush-splatoon
+Sampled Tracks:
+- track:bomb-rush-blush-splatoon
 ---
 Track: Tidal Rush
 Artists:
@@ -495,8 +495,8 @@ Contributors:
 - Ryo Nagamatsu (Music by)
 Duration: 3:54
 Referenced Tracks:
-#- Tide Goes Out
-#- Bomb Rush Blush
+- Tide Goes Out
+- track:bomb-rush-blush-splatoon
 - track:bomb-rush-blush-splatoon2
 ---
 Track: Spicy Calamari Inkantation
