@@ -11,6 +11,8 @@ Groups:
 URLs:
 - https://hsmusic.wiki/
 ---
+Section: Disc 1
+---
 Track: Opening
 Directory: opening-splatoon3
 Artists:
@@ -35,7 +37,7 @@ Contributors:
 - Ryo Nagamatsu (Music by)
 Duration: 3:42
 ---
-Track: Headhammer / C-Side
+Track: Headhammer
 Artists:
 - C-Side
 Contributors:
@@ -270,6 +272,8 @@ Duration: 1:49
 Referenced Tracks:
 - Ever Further
 ---
+Section: Disc 2
+---
 Track: Cap'n Cuttlefish's Theme
 Directory: capn-cuttlefishs-theme-splatoon3
 Originally Released As: track:capn-cuttlefishs-theme
@@ -316,3 +320,10 @@ Contributors:
 Duration: 2:51
 Referenced Tracks:
 - City of Color
+---
+Track: Sandcastles
+Artists:
+- Stars in the Deep
+Contributors:
+- Sayako Doi (Music by)
+Duration: 3:56
